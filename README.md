@@ -13,9 +13,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=indratumu296-web&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=indratumu296-web&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+[](https://github-contributor-stats.vercel.app/api?username=indratumu296-web&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=indratumu296-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### My Portfolio
+(https://rococo-travesseiro-381f2c.netlify.app/ )
