@@ -1,5 +1,5 @@
 <img width="1076" height="391" alt="Screenshot 2026-09-15 103411" src="https://github.com/user-attachments/assets/d30da53d-9144-40ec-9f0d-00209a2298fc" />
-## 🚀 About Me
+** 🚀 About Me **
 
 I am an **Artificial Intelligence & Machine Learning** undergraduate at **Sai University** dedicated to engineering intelligent, scalable, and user-focused technology solutions that address real-world business challenges. 
 
