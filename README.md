@@ -1,6 +1,6 @@
 <img width="1076" height="391" alt="Screenshot 2026-09-15 103411" src="https://github.com/user-attachments/assets/d30da53d-9144-40ec-9f0d-00209a2298fc" />
 ### 🚀 About Me 
-
+---
 I am an **Artificial Intelligence & Machine Learning** undergraduate at **Sai University** dedicated to engineering intelligent, scalable, and user-focused technology solutions that address real-world business challenges. 
 
 Bridging the gap between theoretical machine learning and practical application, I specialize in building end-to-end solutions—ranging from **AI-powered conversational agents** and **automated workflow engines** to **data analytics dashboards** and **full-stack web applications**.
