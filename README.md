@@ -1,5 +1,6 @@
-##  About Me:
 <img src="![Uploading Screenshot 2026-09-15 103411.png…]()
+![Header Banner](https://github.com/user-attachments/assets/12345678-abcd-1234-abcd-1234567890ab)
+##  About Me:
 " width="100%" alt="Header Banner">
 🎓 I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning at Sai University, aspiring to become an AI Engineer who builds scalable, ethical solutions to real-world problems.
 
