@@ -1,4 +1,5 @@
-## 💫 About Me:
+##  About Me:
+
 🎓 I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning at Sai University, aspiring to become an AI Engineer who builds scalable, ethical solutions to real-world problems.
 
 
