@@ -1,7 +1,30 @@
 <img width="1076" height="391" alt="Screenshot 2026-09-15 103411" src="https://github.com/user-attachments/assets/d30da53d-9144-40ec-9f0d-00209a2298fc" />
-##  About Me:
-" width="100%" alt="Header Banner">
-🎓 I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning at Sai University, aspiring to become an AI Engineer who builds scalable, ethical solutions to real-world problems.
+## 🚀 About Me
+
+I am an **Artificial Intelligence & Machine Learning** undergraduate at **Sai University** dedicated to engineering intelligent, scalable, and user-focused technology solutions that address real-world business challenges. 
+
+Bridging the gap between theoretical machine learning and practical application, I specialize in building end-to-end solutions—ranging from **AI-powered conversational agents** and **automated workflow engines** to **data analytics dashboards** and **full-stack web applications**.
+
+---
+
+### 💡 Core Strengths & Value I Bring
+
+* 🤖 **Applied AI & Generative Workflows:** Experienced in building intelligent chatbots, leveraging Generative AI concepts, and integrating machine learning logic into interactive applications.
+* ⚡ **Workflow & System Automation:** Skilled in streamlining complex operations and data pipelines using **n8n** and custom scripts to maximize system efficiency.
+* 📊 **Data Engineering & Analytics:** Proficient in querying SQL and MongoDB databases, transforming raw datasets into actionable intelligence, and designing interactive **Power BI** dashboards.
+* 💻 **Software Engineering & Web Tech:** Hands-on experience delivering clean, scalable code across **Python**, **C**, **JavaScript**, **HTML/CSS**, backed by robust database architectures.
+* 🛡️ **Ethical & Clean Code Practices:** Committed to writing maintainable code, implementing standard **Git/GitHub** version control, and adhering to responsible, ethical AI principles.
+
+---
+
+### 🎯 Career Objective & Immediate Focus
+
+* 🏆 **Career Goal:** To serve as an **AI Engineer** who architects scalable, high-performance, and ethically sound AI systems across industries.
+* 🌱 **Continuous Growth:** Actively expanding technical acumen through competitive hackathons, industry certifications, research, and project-based experimentation.
+* 🤝 **Open For Opportunities:** 
+  * 💼 **AI / ML / Data Science Internships**
+  * 🔬 **Research Collaborations**
+  * 🛠️ **Open-Source & Industry Project Building**
 
 
 ## 🌐 Socials:
