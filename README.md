@@ -1,6 +1,4 @@
 <img src="<img width="1076" height="391" alt="Screenshot 2026-09-15 103411" src="https://github.com/user-attachments/assets/d30da53d-9144-40ec-9f0d-00209a2298fc" />
-![![Uploading Screenshot 2026-09-15 103411.png…]()
-](https://github.com/user-attachments/assets/12345678-abcd-1234-abcd-1234567890ab)
 ##  About Me:
 " width="100%" alt="Header Banner">
 🎓 I’m a B.Tech student specializing in Artificial Intelligence and Machine Learning at Sai University, aspiring to become an AI Engineer who builds scalable, ethical solutions to real-world problems.
