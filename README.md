@@ -25,7 +25,7 @@ Bridging the gap between theoretical machine learning and practical application,
   * 💼 **AI / ML / Data Science Internships**
   * 🔬 **Research Collaborations**
   * 🛠️ **Open-Source & Industry Project Building**
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tumu-indra-reddy) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/indratumu296)
