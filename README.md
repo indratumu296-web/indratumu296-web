@@ -45,4 +45,4 @@ Bridging the gap between theoretical machine learning and practical application,
 ---
 
 ### My Portfolio
-(https://hilarious-centaur-feeb8f.netlify.app/ )
+(https://wondrous-griffin-b40eda.netlify.app/ )
