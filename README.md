@@ -47,5 +47,4 @@ Bridging the gap between theoretical machine learning and practical application,
 
 ---
 
-### My Portfolio
-(https://wondrous-griffin-b40eda.netlify.app/ )
+
